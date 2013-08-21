@@ -1,4 +1,4 @@
-(defproject speclj/lein-template "0.1.3"
+(defproject speclj/lein-template "0.1.4"
   :description "A Leiningen template for speclj"
   :url "http://speclj.com"
   :license {:name "Eclipse Public License"
