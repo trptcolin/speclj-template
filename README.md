@@ -8,6 +8,6 @@ A Leiningen template for speclj.
 
 ## License
 
-Copyright © 2013 Colin Jones
+Copyright © 2013-present Colin Jones
 
 Distributed under the Eclipse Public License, the same as Clojure.
